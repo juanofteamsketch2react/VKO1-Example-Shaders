@@ -39,12 +39,18 @@ All shaders use VKO1's `GeneratorUniforms` struct:
 | `jogValue` | Manual control value from jog wheel |
 | `resolution` | Viewport size in pixels |
 
+## Requirements
+
+**VKO1 beta 1.20 or later** is required for custom shader support.
+
 ## How to use
 
 1. Open VKO1
 2. Tap the **Graph Editor**
 3. Add a **Custom Shader** node
 4. Paste the contents of any `.metal` file into the code editor
+
+For full documentation on the Graph Editor and custom shaders, see the [Graph Editor docs](https://temperamento.net/vko1/grapheditor.html).
 
 ## License
 
