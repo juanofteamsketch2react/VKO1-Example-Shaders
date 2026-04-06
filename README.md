@@ -1,6 +1,6 @@
 # VKO1 Example Shaders
 
-15 audio-reactive Metal fragment shaders for [VKO1](https://apps.apple.com/app/id6742042648) — a visual performance app for iOS/iPadOS/macOS.
+15 audio-reactive Metal fragment shaders for [VKO1](https://temperamento.net/vko1/) — a visual performance app for iOS/iPadOS/macOS.
 
 ## Shaders
 
