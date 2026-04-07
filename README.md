@@ -1,5 +1,7 @@
 # VKO1 Example Shaders
 
+![VKO1 Shader Sampler](vko1-shader-lib-sampler.gif)
+
 22 audio-reactive Metal fragment shaders for [VKO1](https://temperamento.net/vko1/) — a visual performance app for iOS/iPadOS/macOS.
 
 ## Shaders
