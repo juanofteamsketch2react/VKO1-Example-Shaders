@@ -56,10 +56,16 @@ All shaders use VKO1's `GeneratorUniforms` struct:
 
 ## How to use
 
-1. Open VKO1
-2. Tap the **Graph Editor**
-3. Add a **Custom Shader** node
+**Option A — paste shader code manually:**
+
+1. Right-click or long-press an empty pad
+2. Select **Create Visualizer from Scratch**
+3. Add a **Custom Shader** node in the Graph Editor
 4. Paste the contents of any `.metal` file into the code editor
+
+**Option B — import a `.metal` file directly:**
+
+Use the **↓ (Import)** button in the Graph Editor to load a `.metal` file from your device.
 
 For full documentation on the Graph Editor and custom shaders, see the [Graph Editor docs](https://temperamento.net/vko1/grapheditor.html).
 
