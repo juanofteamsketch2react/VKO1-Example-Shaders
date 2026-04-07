@@ -1,6 +1,6 @@
 # VKO1 Example Shaders
 
-15 audio-reactive Metal fragment shaders for [VKO1](https://temperamento.net/vko1/) — a visual performance app for iOS/iPadOS/macOS.
+17 audio-reactive Metal fragment shaders for [VKO1](https://temperamento.net/vko1/) — a visual performance app for iOS/iPadOS/macOS.
 
 ## Shaders
 
@@ -11,6 +11,7 @@
 | `diamond_spin` | Rotating 3D diamond with faceted reflections and sparkle |
 | `digital_rain` | Matrix-style falling code columns |
 | `hex_wave` | Hexagonal tiled surface with beat-reactive wave deformation |
+| `holo_hud` | Sci-fi holographic HUD with tactical reticle, hex overlays, and scan-line glitches |
 | `kaleidoscope` | Mirror-symmetry kaleidoscope with configurable segments |
 | `laser_grid` | Perspective laser grid with beat-synced scan lines |
 | `neon_tunnel` | Fly-through polygonal neon tunnel |
@@ -19,6 +20,7 @@
 | `retro_grid` | Synthwave sunset grid |
 | `spiral_vortex` | Hypnotic multi-arm spiral with depth illusion |
 | `star_warp` | Hyperspace star field with warp streaks |
+| `synth-city` | Neon synthwave cityscape with scrolling road, city skyline, and beat-driven bloom |
 | `voronoi_glass` | Stained glass Voronoi cells with glowing edges |
 | `wireframe_cube` | Rotating wireframe cube |
 
