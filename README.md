@@ -2,13 +2,14 @@
 
 ![VKO1 Shader Sampler](vko1-shader-lib-sampler.gif)
 
-22 audio-reactive Metal fragment shaders for [VKO1](https://temperamento.net/vko1/) — a visual performance app for iOS/iPadOS/macOS.
+24 audio-reactive Metal fragment shaders for [VKO1](https://temperamento.net/vko1/) — a visual performance app for iOS/iPadOS/macOS.
 
 ## Shaders
 
 | Shader | Description |
 |--------|-------------|
 | `aurora` | Northern lights curtains with vertical shimmer and star field |
+| `biocore_monitor` | Biolab contamination monitor — ECG lines, hex cell panels, DNA readouts, organ status rings on black |
 | `cga_dither` | CGA/C64 era computer art — bold flat palette, Bayer ordered dithering, horizontal bands with scan-line interference |
 | `crt_monitor` | Retro CRT screen with scanlines and phosphor glow |
 | `crt_tunnel` | Phosphor-green terminal wireframe dungeon tunnel with CRT scanlines and beat-flaring glitch artifacts |
@@ -23,6 +24,7 @@
 | `pixel_warp` | Pixel-art style warp distortion |
 | `plasma_orb` | Pulsating energy sphere with electric plasma tendrils |
 | `retro_grid` | Synthwave sunset grid |
+| `signal_intercept` | Cold-war signals intelligence terminal — radar sweeps, spectrum columns, waveform decoders, targeting reticles |
 | `spiral_vortex` | Hypnotic multi-arm spiral with depth illusion |
 | `star_warp` | Hyperspace star field with warp streaks |
 | `synth-city` | Neon synthwave cityscape with scrolling road, city skyline, and beat-driven bloom |
