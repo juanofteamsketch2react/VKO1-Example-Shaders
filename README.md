@@ -1,12 +1,13 @@
 # VKO1 Example Shaders
 
-17 audio-reactive Metal fragment shaders for [VKO1](https://temperamento.net/vko1/) — a visual performance app for iOS/iPadOS/macOS.
+18 audio-reactive Metal fragment shaders for [VKO1](https://temperamento.net/vko1/) — a visual performance app for iOS/iPadOS/macOS.
 
 ## Shaders
 
 | Shader | Description |
 |--------|-------------|
 | `aurora` | Northern lights curtains with vertical shimmer and star field |
+| `cga_dither` | CGA/C64 era computer art — bold flat palette, Bayer ordered dithering, horizontal bands with scan-line interference |
 | `crt_monitor` | Retro CRT screen with scanlines and phosphor glow |
 | `diamond_spin` | Rotating 3D diamond with faceted reflections and sparkle |
 | `digital_rain` | Matrix-style falling code columns |
